@@ -1,0 +1,2 @@
+# qyweixinrobot_py
+PYTHON封装企业微信群机器人API
