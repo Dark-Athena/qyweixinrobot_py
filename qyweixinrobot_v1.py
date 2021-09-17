@@ -3,6 +3,7 @@
 #功能 ：封装企业微信群机器人API
 #日期 ：2021-09-05 
 #作者：Dark-Athena
+#EMAIL:darkathena@qq.com
 #说明：
 """ 
  支持纯文本、markdown、图片、文件、图文
