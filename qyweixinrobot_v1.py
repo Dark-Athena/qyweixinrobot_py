@@ -5,7 +5,7 @@
 #作者：Dark-Athena
 #EMAIL:darkathena@qq.com
 """
-Copyright DarkAthena
+Copyright DarkAthena(darkathena@qq.com)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
